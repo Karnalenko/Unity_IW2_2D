@@ -1,2 +1,2 @@
-# Unity_Lab3_2D
-### Ривок на кнопку SHIFT
+# Unity_IndiwidualWork2_2D
+### Атака на ЛКМ
